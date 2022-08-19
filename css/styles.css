@@ -83,6 +83,13 @@ hr {
   text-align: left;
 }
 
+.skill-row2 {
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: right;
+}
+
+
 .intro {
   width: 60%;
   margin: auto;
